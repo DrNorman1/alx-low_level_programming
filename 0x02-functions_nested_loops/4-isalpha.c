@@ -5,9 +5,9 @@
 
 
 	/**
-	 * _isalpha - checks for alphabetic character
-	 * @c: the character to be checked
-	 * Return: 1 if c is a letter, 0 otherwise
+	 * _isalpha - Chekcs if a character is alphabetic.
+	 * @c: The character to be chekced.
+	 * Return: 1 if the character is letter, lowrcase or uppercase , 0 otheriwse
 	 */
 
 	int _isalpha(int c)
